@@ -1,6 +1,6 @@
 **AWS Project Ideas | Project 1**
 
-**Document Management System with Version Control**
+**Document Management System with Version Control** \n
 
 Project Description: In the digital age, the ability to manage documents effectively is critical for businesses of all sizes. Organizations struggle with maintaining a single source of truth for their documents as they are often scattered across different systems, leading to inefficiencies, security vulnerabilities, and a lack of collaborative capabilities. The goal is to develop a centralized, secure, and user-friendly document management system that provides version control, access logs, and collaboration tools for enterprise use. The system must ensure data integrity, support regulatory compliance, and enhance productivity through seamless document handling.
 
