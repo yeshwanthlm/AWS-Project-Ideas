@@ -15,11 +15,11 @@ In the digital age, the ability to manage documents effectively is critical for 
 * Amazon CloudWatch: For monitoring the system and setting alarms.
 
 **Objectives:**
-● Develop a web-based interface for easy document upload, retrieval, and management.
-● Implement version control to track changes and allow rollback to previous versions.
-● Secure documents using encryption and access controls to protect sensitive information.
-● Provide collaboration features such as document check-in/check-out, commenting, and
+* Develop a web-based interface for easy document upload, retrieval, and management.
+* Implement version control to track changes and allow rollback to previous versions.
+* Secure documents using encryption and access controls to protect sensitive information.
+* Provide collaboration features such as document check-in/check-out, commenting, and
 change tracking. Additional Points:
-● The system may include a full-text search feature for quick document discovery.
-● It must support batch processing for mass uploads and downloads.
-● Implement detailed logging to track user actions and changes to documents.
+* The system may include a full-text search feature for quick document discovery.
+* It must support batch processing for mass uploads and downloads.
+* Implement detailed logging to track user actions and changes to documents.
